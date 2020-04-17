@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container1 {
+  font-family: 'Comic Neue', cursive;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  border: 5px solid red;
+  padding: 10px;
+  background-image: url("https://i.pinimg.com/originals/ef/8b/2a/ef8b2ad40498aa24ca1467590710c507.jpg");
+}
+
+.footer {
+  margin: auto;
+  text-align: center;
+  width: 50%;
+  padding: 10px;	
+}
+
+.ImageCarousel {
+  margin: auto;
+  width: 40%;
+}
+
+.ElectricSunrise {
+  text-align: center;
+  margin: auto;
+  width: 60%
+}
+
+.ClickMeButton {
+margin: auto;
+text-align: center;
+}
+
+.progress {
+margin: auto;
+width: 30%
+}
